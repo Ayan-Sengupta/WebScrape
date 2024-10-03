@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://pip.pypa.io/en/stable/installation/
+HostUrl=https://bootstrap.pypa.io/pip/pip.pyz
